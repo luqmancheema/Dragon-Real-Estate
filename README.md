@@ -1,0 +1,2 @@
+# Dragon-Real-Estate
+A data science project which was developed to predict house prices by training and testing data of house selling company. Data wrangling was done to correct data format/ missing values etc. Then different data analysis techniques were use to analyse data.  Some machine learning models like Simple Linear Regression and Multiple Linear Regression etc to predict house prices. Later on, cross validation method was used to to select best performing model to predict house price.
